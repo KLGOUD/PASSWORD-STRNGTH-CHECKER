@@ -1,4 +1,4 @@
-# Password Strength Checker
+
 # Password Strength Checker 🔐
 
 This is a simple Python-based password strength checker that evaluates the security level of a given password based on length, character variety (uppercase, lowercase, digits, and symbols), and commonly used passwords.
